@@ -1,0 +1,11 @@
+id: 857aa5db5a8a4a308f9f1b279ce0c8c0
+annotation_type: index
+revision: '00001'
+annotations:
+  5e96eaedc99a482e96e8c90d51982065:
+    base: C97A.txt
+    Chapters:
+    - title: Uttaragrantha 1
+      span:
+        start: 0
+        end: 2485

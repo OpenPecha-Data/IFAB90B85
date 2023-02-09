@@ -1,0 +1,16 @@
+id: IFAB90B85
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:11:12.506361
+last_modified: 2023-02-10 00:11:12.506497
+source_metadata:
+  title: 'MSV 5,00: Uttaragrantha 1'
+  language: bo
+bases:
+  C97A:
+    base_file: C97A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
